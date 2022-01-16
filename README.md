@@ -1,0 +1,3 @@
+Diagrom for IBM PC and compatibles
+
+Doesn't do much for now ...
